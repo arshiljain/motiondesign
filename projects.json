@@ -1,0 +1,820 @@
+{
+  "projects": [
+    {
+      "id": "01",
+      "title": "Dialectica: Persona Mirror",
+      "kind": "Web app",
+      "date": "8 Aug 2026",
+      "tags": [
+        "webapp",
+        "art"
+      ],
+      "overview": "Enter any public handle to analyze its rhetorical prose, argumentative cadence, and stylistic tropes, synthesizing a philosophical mirror of the author. Engineered for desktop viewports.",
+      "tools": "TypeScript, HTML5 Canvas, Lexical Analysis Engine, Figma",
+      "fonts": "Adobe Caslon Pro, Fragment Mono SC",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/01.jpg",
+      "cover": {
+        "kind": "glyph",
+        "bg": "#1F2A44",
+        "fg": "#E9E4D8",
+        "accent": "#D2A24C",
+        "text": "Dl"
+      },
+      "video": "images/01.mp4",
+      "size": "large"
+    },
+    {
+      "id": "02",
+      "title": "Monoline: Rapid Constellation",
+      "kind": "Web app",
+      "date": "14 Aug 2026",
+      "tags": [
+        "webapp",
+        "game"
+      ],
+      "overview": "Dynamic coordinates scatter across an open canvas. Connect every node in a continuous thirty-second stroke while a contour algorithm parses the emergent silhouette.",
+      "tools": "HTML5 Canvas, Geometric Contour Detection, Web Audio",
+      "fonts": "Fredoka, Inter",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/02.jpg",
+      "cover": {
+        "kind": "dots",
+        "bg": "#F1F2F4",
+        "fg": "#1F2A44",
+        "accent": "#E0533D"
+      },
+      "video": "images/02.mp4",
+      "size": "small"
+    },
+    {
+      "id": "03",
+      "title": "Chroma: Semiotic Highlighter",
+      "kind": "Web app + Interaction",
+      "date": "28 Aug 2026",
+      "tags": [
+        "interaction",
+        "art",
+        "webapp"
+      ],
+      "overview": "A tactile text highlighter engineered around the semiotics of chromatic perception and visual mood, designed for seamless embedding into ambient reading interfaces.",
+      "tools": "Vanilla JavaScript, CSS Custom Properties, Web Components",
+      "fonts": "Merriweather, Inter, Material Design icons",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/03.jpg",
+      "cover": {
+        "kind": "stretch",
+        "bg": "#F6E27A",
+        "fg": "#1F2A44",
+        "accent": "#E0533D",
+        "text": "chroma"
+      },
+      "video": "images/03.mp4",
+      "size": "small"
+    },
+    {
+      "id": "04",
+      "title": "Cognitive Cartography",
+      "kind": "Web app",
+      "date": "11 Sep 2026",
+      "tags": [
+        "webapp"
+      ],
+      "overview": "A multidimensional epistemological atlas mapping conceptual intersections between theoretical physics and aesthetic philosophy. Navigate orbital graphs, phylogenetic trees, or comparative matrices.",
+      "tools": "D3.js, WebGL, Knowledge Graph Pipeline",
+      "fonts": "Newsreader, DM Mono, DM Sans",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/04.jpg",
+      "cover": {
+        "kind": "orbit",
+        "bg": "#2F343A",
+        "fg": "#E9EAEC",
+        "accent": "#D2A24C"
+      },
+      "video": "images/04.mp4",
+      "size": "large"
+    },
+    {
+      "id": "05",
+      "title": "Harmonic Spectrum",
+      "kind": "Interaction",
+      "date": "17 Sep 2026",
+      "tags": [
+        "interaction",
+        "music"
+      ],
+      "overview": "A continuous polychromatic spectral field mapped directly to microtonal frequencies. Pointer coordinates modulate pitch intervals, filter resonance, and acoustic decay.",
+      "tools": "Web Audio API, GLSL Shaders, Canvas 2D",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/05.jpg",
+      "cover": {
+        "kind": "wave",
+        "bg": "#2B1E3F",
+        "fg": "#F2A7C3",
+        "accent": "#7AD4FF"
+      },
+      "video": "images/05.mp4",
+      "size": "medium"
+    },
+    {
+      "id": "06",
+      "title": "Narrative Tectonics",
+      "kind": "Web app",
+      "date": "19 Sep 2026",
+      "tags": [
+        "webapp",
+        "game"
+      ],
+      "overview": "Structural storytelling conceived as tectonic equilibrium. Stack narrative keystones across five narrative beats while an adaptive engine generates branching story resolutions.",
+      "tools": "Three.js, Algorithmic Prose Generator, Tone.js",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/06.jpg",
+      "cover": {
+        "kind": "ui",
+        "bg": "#E9CFC4",
+        "fg": "#7A2E24",
+        "accent": "#D2A24C"
+      },
+      "video": "images/06.mp4",
+      "size": "small"
+    },
+    {
+      "id": "07",
+      "title": "Radial Notation: Lathe Score",
+      "kind": "Interaction",
+      "date": "3 Oct 2026",
+      "tags": [
+        "interaction",
+        "music"
+      ],
+      "overview": "Circular musical notation etched along lathe-cut vinyl grooves. Operates via continuous rotational playback or tactile pointer scrubbing across individual note coordinates.",
+      "tools": "HTML5 Canvas, Web Audio API, SVG Geometry",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/07.jpg",
+      "cover": {
+        "kind": "score",
+        "bg": "#090A0C",
+        "fg": "#E9E4D8",
+        "accent": "#D2A24C"
+      },
+      "video": "images/07.mp4",
+      "size": "medium"
+    },
+    {
+      "id": "08",
+      "title": "Antimicrobial Century: Bio-Matrix",
+      "kind": "Web app",
+      "date": "8 Oct 2026",
+      "tags": [
+        "webapp"
+      ],
+      "overview": "A hundred-year spatial taxonomy of antibiotic discoveries: temporal vectors, cellular target sites, molecular taxonomy, and bacterial resistance mechanisms.",
+      "tools": "D3.js, Canvas 2D, SVG Rendering",
+      "fonts": "IBM Plex Mono, Instrument Sans",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/08.jpg",
+      "cover": {
+        "kind": "dots",
+        "bg": "#E7EFE9",
+        "fg": "#3F6B55",
+        "accent": "#E0533D"
+      },
+      "video": "images/08.mp4",
+      "size": "small"
+    },
+    {
+      "id": "09",
+      "title": "Resonant Mosaic",
+      "kind": "Web app",
+      "date": "12 Oct 2026",
+      "tags": [
+        "webapp",
+        "music",
+        "art"
+      ],
+      "overview": "Transforms raster photography into luminous chromatic tiles that generate delicate polyphonic chords as the pointer sweeps across the tessellation.",
+      "tools": "Web Audio API, Canvas 2D, Chromatic Analysis",
+      "fonts": "Space Grotesk, Space Mono",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/09.jpg",
+      "cover": {
+        "kind": "mosaic",
+        "bg": "#101418",
+        "fg": "#7AD4FF",
+        "accent": "#F2A7C3",
+        "colors": [
+          "#7AD4FF",
+          "#9A94FF",
+          "#F2A7C3",
+          "#86EFB0",
+          "#F6E27A"
+        ]
+      },
+      "video": "images/09.mp4",
+      "size": "small"
+    },
+    {
+      "id": "10",
+      "title": "Curatorial Lens",
+      "kind": "Web app",
+      "date": "20 Oct 2026",
+      "tags": [
+        "webapp",
+        "art"
+      ],
+      "overview": "A contemplative gallery experience highlighting compositional geometry, chiaroscuro balances, and iconographic symbolism across classical masterworks through reactive glass plaques.",
+      "tools": "HTML5 Canvas, CSS 3D Transforms, Geometric Contour Detection",
+      "fonts": "Petrona, DM Sans, DM Mono",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/10.jpg",
+      "cover": {
+        "kind": "botanic",
+        "bg": "#3A2A22",
+        "fg": "#D9B77E",
+        "accent": "#E0533D"
+      },
+      "video": "images/10.mp4",
+      "size": "large"
+    },
+    {
+      "id": "11",
+      "title": "Tessellated Mesh Deformer",
+      "kind": "Interaction",
+      "date": "31 Oct 2026",
+      "tags": [
+        "interaction"
+      ],
+      "overview": "Deconstruct an image into freeform polygonal facets with real-time affine texture deformation following gestural pointer vectors.",
+      "tools": "WebGL, Delaunay Triangulation, Canvas 2D",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/11.jpg",
+      "cover": {
+        "kind": "poly",
+        "bg": "#F1F2F4",
+        "fg": "#2E3F9E",
+        "accent": "#E0533D",
+        "colors": [
+          "#2E3F9E",
+          "#E0533D",
+          "#D2A24C",
+          "#86BFA0"
+        ]
+      },
+      "video": "images/11.mp4",
+      "size": "small"
+    },
+    {
+      "id": "12",
+      "title": "Kinetics: 2.5D Physics Sandbox",
+      "kind": "Web app",
+      "date": "4 Nov 2026",
+      "tags": [
+        "webapp"
+      ],
+      "overview": "Nineteen tactile physical micro-phenomena simulated in axonometric space. Adjust surface restitution, gravity vectors, elastic dampening, and orbital momentum in real time.",
+      "tools": "Matter.js, Canvas 2D, Kinematics Engine",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/12.jpg",
+      "cover": {
+        "kind": "orbit",
+        "bg": "#E9E4D8",
+        "fg": "#1F2A44",
+        "accent": "#E0533D"
+      },
+      "video": "images/12.mp4",
+      "size": "medium"
+    },
+    {
+      "id": "13",
+      "title": "Typographic Permutation: 9-Tile Grid",
+      "kind": "Web app",
+      "date": "16 Nov 2026",
+      "tags": [
+        "webapp",
+        "typography",
+        "game"
+      ],
+      "overview": "A tactile 3x3 sliding tile puzzle where segmented letterforms must be assembled before identifying the underlying editorial typeface.",
+      "tools": "CSS Grid, Web Components, Font Loading API",
+      "fonts": "Inter, Playfair Display",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/13.jpg",
+      "cover": {
+        "kind": "glyph",
+        "bg": "#BFD0DA",
+        "fg": "#2E3F9E",
+        "accent": "#7A2E24",
+        "text": "Aa"
+      },
+      "video": "images/13.mp4",
+      "size": "small"
+    },
+    {
+      "id": "14",
+      "title": "Near-Earth Telemetry: Orbital Watch",
+      "kind": "Web app",
+      "date": "29 Nov 2026",
+      "tags": [
+        "webapp"
+      ],
+      "overview": "A retro-cybernetic astral dashboard tracking orbital trajectories, close approaches, and impact probabilities across NEO databases with ambient micro-soundscapes.",
+      "tools": "HTML5 Canvas, NASA Near-Earth Trajectory Feed, Audio Synthesizer",
+      "fonts": "Space Mono, Inter",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/14.jpg",
+      "cover": {
+        "kind": "pixel",
+        "bg": "#0E1330",
+        "fg": "#E9E4D8",
+        "accent": "#F6E27A"
+      },
+      "video": "images/14.mp4",
+      "size": "small"
+    },
+    {
+      "id": "15",
+      "title": "Generative Bloom: Algorithmic Botanics",
+      "kind": "Web app + Interaction",
+      "date": "2 Dec 2026",
+      "tags": [
+        "interaction",
+        "art",
+        "webapp"
+      ],
+      "overview": "A living generative brush that sprouts organic foliage, tendrils, and floral petals in real time along cursor trajectories and velocity curves.",
+      "tools": "L-Systems, HTML5 Canvas, Generative Splines",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/15.jpg",
+      "cover": {
+        "kind": "botanic",
+        "bg": "#F4EAF0",
+        "fg": "#3F6B55",
+        "accent": "#E0533D"
+      },
+      "video": "images/15.mp4",
+      "size": "medium"
+    },
+    {
+      "id": "16",
+      "title": "Adhesive Typography: Kinetic Peel",
+      "kind": "Interaction",
+      "date": "9 Dec 2026",
+      "tags": [
+        "interaction",
+        "typography"
+      ],
+      "overview": "Letterforms that lift and peel from the virtual surface with realistic adhesive drag, tactile curl resistance, and dynamic drop shadows.",
+      "tools": "CSS 3D Engine, SVG Displacement Filters, Pointer API",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/16.jpg",
+      "cover": {
+        "kind": "stretch",
+        "bg": "#E9EAEC",
+        "fg": "#090A0C",
+        "accent": "#E0533D",
+        "text": "peel"
+      },
+      "video": "images/16.mp4",
+      "size": "small"
+    },
+    {
+      "id": "17",
+      "title": "Particle Lexicon: Word Dispersion",
+      "kind": "Interaction",
+      "date": "15 Dec 2026",
+      "tags": [
+        "interaction",
+        "typography"
+      ],
+      "overview": "Aphorisms atomized into kinetic lexical particles. Each word obeys micro-gravitational fields, velocity dampening, and elastic wall collisions.",
+      "tools": "Canvas 2D Particle Engine, Verlet Physics",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/17.jpg",
+      "cover": {
+        "kind": "stretch",
+        "bg": "#1F2A44",
+        "fg": "#E9E4D8",
+        "accent": "#F6E27A",
+        "text": "words"
+      },
+      "video": "images/17.mp4",
+      "size": "small"
+    },
+    {
+      "id": "18",
+      "title": "Lenticular Threshold: Dual Works",
+      "kind": "Web app + Interaction",
+      "date": "25 Dec 2026",
+      "tags": [
+        "interaction",
+        "art",
+        "webapp"
+      ],
+      "overview": "A digital lenticular slit-scan interface slicing between archival masterworks. Cursor displacement smoothly blends chromatic cross-sections without repeats.",
+      "tools": "WebGL Shader Pipeline, Slit-Scan Compositor",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/18.jpg",
+      "cover": {
+        "kind": "poly",
+        "bg": "#E9E4D8",
+        "fg": "#7A2E24",
+        "accent": "#2E3F9E",
+        "colors": [
+          "#7A2E24",
+          "#2E3F9E",
+          "#D2A24C",
+          "#3F6B55",
+          "#1F2A44"
+        ]
+      },
+      "video": "images/18.mp4",
+      "size": "small"
+    },
+    {
+      "id": "19",
+      "title": "Malleable Syntax: Drag-and-Splice",
+      "kind": "Interaction",
+      "date": "30 Dec 2026",
+      "tags": [
+        "interaction",
+        "typography"
+      ],
+      "overview": "Extract any syntactic clause directly from a prose paragraph, freely translate it in space, hot-swap sentence nodes, or inline edit upon landing.",
+      "tools": "DOM Range API, Pointer Events, Spring Physics Layout",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/19.jpg",
+      "cover": {
+        "kind": "stretch",
+        "bg": "#F1F2F4",
+        "fg": "#2E3F9E",
+        "accent": "#E0533D",
+        "text": "pull"
+      },
+      "video": "images/19.mp4",
+      "size": "small"
+    },
+    {
+      "id": "20",
+      "title": "Lexical Entropy: Kinetic Explosion",
+      "kind": "Interaction",
+      "date": "10 Jan 2027",
+      "tags": [
+        "interaction",
+        "typography"
+      ],
+      "overview": "A concealed typographic Easter egg where structured paragraphs spontaneously fracture into entropic typographic chaos upon user trigger.",
+      "tools": "CSS Matrix3D, RequestAnimationFrame, Particle Physics",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/20.jpg",
+      "cover": {
+        "kind": "stretch",
+        "bg": "#E0533D",
+        "fg": "#F6EDE6",
+        "accent": "#1F2A44",
+        "text": "mess"
+      },
+      "video": "images/20.mp4",
+      "size": "small"
+    },
+    {
+      "id": "21",
+      "title": "Dialogue Tapestry: Latent Loom",
+      "kind": "Interaction",
+      "date": "12 Jan 2027",
+      "tags": [
+        "interaction"
+      ],
+      "overview": "Ninety days of exploratory heuristic design iterations woven into a continuous generative tapestry. Pull individual warp and weft threads to trace ideational provenance.",
+      "tools": "HTML5 Canvas Generative Weave, Custom Audio Chords",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/21.jpg",
+      "cover": {
+        "kind": "wave",
+        "bg": "#E9E4D8",
+        "fg": "#7A2E24",
+        "accent": "#2E3F9E"
+      },
+      "video": "images/21.mp4",
+      "size": "small"
+    },
+    {
+      "id": "22",
+      "title": "Ephemeral Collage: Modular Newsprint",
+      "kind": "Web app",
+      "date": "21 Jan 2027",
+      "tags": [
+        "webapp",
+        "art"
+      ],
+      "overview": "A tactile digital cutting table modeled for foldable dual-screen devices. Slice editorial clippings, assemble tactile collages, and apply adhesive ephemera.",
+      "tools": "Pointer Gestures, SVG Clipping Masks, Web Storage API",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/22.jpg",
+      "cover": {
+        "kind": "ui",
+        "bg": "#EDE6D6",
+        "fg": "#090A0C",
+        "accent": "#E0533D"
+      },
+      "video": "images/22.mp4",
+      "size": "small"
+    },
+    {
+      "id": "23",
+      "title": "AuraTone: Affective Chromatics & Sound",
+      "kind": "Web app",
+      "date": "26 Jan 2027",
+      "tags": [
+        "webapp",
+        "music",
+        "art"
+      ],
+      "overview": "Spoken reflections parsed across twelve affective color spectra. The emotional topology renders into a generative watercolor canvas that plays as an ambient melodic loop.",
+      "tools": "Tone.js, Canvas Blending, Affective Lexicon Engine",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/23.jpg",
+      "cover": {
+        "kind": "mosaic",
+        "bg": "#F6F1EA",
+        "fg": "#E0533D",
+        "accent": "#2E3F9E",
+        "colors": [
+          "#E0533D",
+          "#F6A04D",
+          "#F6E27A",
+          "#86EFB0",
+          "#7AD4FF",
+          "#9A94FF",
+          "#E79AFF",
+          "#3F6B55",
+          "#2E3F9E",
+          "#7A2E24",
+          "#D2A24C",
+          "#F2A7C3"
+        ]
+      },
+      "video": "images/23.mp4",
+      "size": "small"
+    },
+    {
+      "id": "24",
+      "title": "Resonance Field: Physical Pluck",
+      "kind": "Interaction",
+      "date": "2 Feb 2027",
+      "tags": [
+        "interaction",
+        "music"
+      ],
+      "overview": "A tactile harp and piano harp string simulation with physical string deflection, tension feedback, and Karplus-Strong acoustic synthesis.",
+      "tools": "Web Audio Karplus-Strong Synthesis, Verlet Physics",
+      "fonts": "",
+      "links": [],
+      "image": "images/24.jpg",
+      "cover": {
+        "kind": "wave",
+        "bg": "#F6F4EF",
+        "fg": "#090A0C",
+        "accent": "#E0533D"
+      },
+      "video": "images/24.mp4",
+      "size": "small"
+    },
+    {
+      "id": "25",
+      "title": "Devanagari: Anatomy of Script",
+      "kind": "Web app",
+      "date": "8 Feb 2027",
+      "tags": [
+        "webapp",
+        "typography"
+      ],
+      "overview": "A definitive structural anatomy and calligraphic breakdown of Devanagari letterforms: shirorekha, kana, matras, and conjunct joints visualized through interactive vector dissection.",
+      "tools": "OpenType.js, SVG Vector Engine, Web Components",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/25.jpg",
+      "cover": {
+        "kind": "glyph",
+        "bg": "#F6EDE6",
+        "fg": "#7A2E24",
+        "accent": "#2E3F9E",
+        "text": "क"
+      },
+      "video": "images/25.mp4",
+      "size": "small"
+    },
+    {
+      "id": "26",
+      "title": "Pixel Sprite: Ambient Familiar",
+      "kind": "Web app",
+      "date": "17 Feb 2027",
+      "tags": [
+        "webapp",
+        "game"
+      ],
+      "overview": "A lightweight 8-bit companion spirit that wanders along window peripheries and ambiently haunts the desktop canvas.",
+      "tools": "Pixel Shaders, Sprite Animation, Canvas 2D",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/26.jpg",
+      "cover": {
+        "kind": "pixel",
+        "bg": "#C9C3E6",
+        "fg": "#F6F1EA",
+        "accent": "#1F2A44"
+      },
+      "video": "images/26.mp4",
+      "size": "small"
+    },
+    {
+      "id": "27",
+      "title": "Vintage OS: 1995 Synthetic Terminal",
+      "kind": "Interaction",
+      "date": "21 Feb 2027",
+      "tags": [
+        "interaction",
+        "art"
+      ],
+      "overview": "A retro productivity assistant reimagined as a beige-box desktop application running on a simulated 1995 graphical operating system complete with bevels and window chrome.",
+      "tools": "Classic UI Engine, SoundFX Pipeline, Canvas 2D",
+      "fonts": "",
+      "links": [
+        {
+          "label": "Overview",
+          "url": "#"
+        }
+      ],
+      "image": "images/27.jpg",
+      "cover": {
+        "kind": "ui",
+        "bg": "#BFBFBF",
+        "fg": "#1F2A44",
+        "accent": "#2E3F9E"
+      },
+      "video": "images/27.mp4",
+      "size": "small"
+    },
+    {
+      "id": "28",
+      "title": "Verdant Haiku: Algorithmic Flora",
+      "kind": "Interaction",
+      "date": "1 Mar 2027",
+      "tags": [
+        "interaction",
+        "art"
+      ],
+      "overview": "Nurture semantic stems with word droplets that blossom into syllabic haikus adhering to 5-7-5 metric structures, branching uniquely with every hydration.",
+      "tools": "Syllable Parsing, Organic Growth Engine, Web Audio Chimes",
+      "fonts": "",
+      "links": [],
+      "image": "images/28.jpg",
+      "cover": {
+        "kind": "botanic",
+        "bg": "#EEF3E6",
+        "fg": "#3F6B55",
+        "accent": "#E79AFF"
+      },
+      "video": "images/28.mp4",
+      "size": "small"
+    }
+  ]
+}

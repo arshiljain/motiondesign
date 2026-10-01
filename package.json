@@ -1,0 +1,19 @@
+{
+  "name": "ash-portfolio",
+  "version": "1.0.0",
+  "description": "Ash — Interaction Designer & Creative Technologist Portfolio",
+  "scripts": {
+    "start": "python server.py",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "infinite-canvas",
+    "creative-technology",
+    "interaction-design",
+    "generative-ui",
+    "web-audio"
+  ],
+  "author": "Ash",
+  "license": "ISC"
+}
